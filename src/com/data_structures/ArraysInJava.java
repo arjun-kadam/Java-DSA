@@ -15,7 +15,7 @@ public class ArraysInJava {
         System.out.println(nums[2]);
         System.out.println(Arrays.toString(nums));
 
-        //Taking I put in Array
+        //Taking Input in Array
         int []rollNo=new int[5];
         for (int i = 0; i < rollNo.length; i++) {
             rollNo[i]=scan.nextInt();
